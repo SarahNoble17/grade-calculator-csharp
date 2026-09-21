@@ -1,0 +1,14 @@
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/bin/Debug/net8.0/grade-calculator-csharp
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/bin/Debug/net8.0/grade-calculator-csharp.deps.json
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/bin/Debug/net8.0/grade-calculator-csharp.runtimeconfig.json
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/bin/Debug/net8.0/grade-calculator-csharp.dll
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/bin/Debug/net8.0/grade-calculator-csharp.pdb
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.AssemblyInfoInputs.cache
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.AssemblyInfo.cs
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.csproj.CoreCompileInputs.cache
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.dll
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/refint/grade-calculator-csharp.dll
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.pdb
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/grade-calculator-csharp.genruntimeconfig.cache
+/Users/sarahnoble/Desktop/programming-essentials/grade-calculator-csharp/obj/Debug/net8.0/ref/grade-calculator-csharp.dll
